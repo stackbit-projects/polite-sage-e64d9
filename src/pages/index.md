@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Jahangeer Iqbal
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "An analytic and astute learner with diverse IT specialist experience. Active listener, analytic thinker and creative problem solver. My\r\ncareer mission is to utilize my empathetic characteristics to bring people together to achieve a common goal. Born in Pakistan,\r brought up in Ireland - internationally experienced.\n"
   - section_id: about
     type: section_content
     title: About
