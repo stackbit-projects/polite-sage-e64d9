@@ -5,7 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Jahangeer Iqbal
-    content: "An analytic and astute learner with diverse IT specialist experience. Active listener, analytic thinker and creative problem solver. My\r\ncareer mission is to utilize my empathetic characteristics to bring people together to achieve a common goal. Born in Pakistan,\r brought up in Ireland - internationally experienced.\n"
+    content: |
+      Cloud Security Architect
   - section_id: about
     type: section_content
     title: About
